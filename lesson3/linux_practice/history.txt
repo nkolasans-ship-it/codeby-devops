@@ -1,0 +1,20 @@
+  173  nano README.md
+  174  git add README.md
+  175  git commit -m "Update README one more time for lesson3"
+  176  git push -u origin lesson3
+  177  git push -u origin lesson3
+  178  git add README.md
+  179  git commit -m "Update README one more time for lesson3"
+  180  git push -u origin lesson3
+  181  git push -u origin main
+  182  mkdir -p lesson3/linux_practice
+  183  echo "User: $(whoami)" > lesson3/linux_practice/vm_info.txt
+  184  echo "Host: $(hostname)" >> lesson3/linux_practice/vm_info.txt
+  185  echo "Date: $(date)" >> lesson3/linux_practice/vm_info.txt
+  186  echo "Path: $(pwd)" >> lesson3/linux_practice/vm_info.txt
+  187  cat vm_info.txt
+  188  cat lesson3/linux_practice/vm_info.txt
+  189  ip a > lesson3/linux_practice/network.txt
+  190  ipconfig > lesson3/linux_practice/network.txt
+  191  ifconfig > lesson3/linux_practice/network.txt
+  192  history | tail -n 20 > lesson3/linux_practice/history.txt

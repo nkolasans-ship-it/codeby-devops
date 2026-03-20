@@ -1,0 +1,4 @@
+User: user
+Host: host-150
+Date: Пт 20 мар 2026 14:46:07 MSK
+Path: /home/user/codeby-devops
