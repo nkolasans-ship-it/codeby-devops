@@ -1,2 +1,3 @@
+Shared file from branch_a
 Shared file from branch_b
 Shared file from branch_c
