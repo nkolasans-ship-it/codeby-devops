@@ -1,2 +1,3 @@
 Base content from branch_a
 Update from branch_b
+Update from branch_c
